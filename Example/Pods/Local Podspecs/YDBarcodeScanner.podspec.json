@@ -1,0 +1,26 @@
+{
+  "name": "YDBarcodeScanner",
+  "version": "0.1.0",
+  "summary": "A short description of YDBarcodeScanner.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xueminlee/YDBarcodeScanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xueminlee": "lixuemin@yidian-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/xueminlee/YDBarcodeScanner.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YDBarcodeScanner/Classes/**/*",
+  "frameworks": [
+    "AVFoundation",
+    "QuartzCore"
+  ]
+}
