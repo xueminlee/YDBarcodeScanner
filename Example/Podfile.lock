@@ -1,0 +1,16 @@
+PODS:
+  - YDBarcodeScanner (0.1.0)
+
+DEPENDENCIES:
+  - YDBarcodeScanner (from `../`)
+
+EXTERNAL SOURCES:
+  YDBarcodeScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YDBarcodeScanner: 06b962c09c248d3012df56bde1df1a2227ca799f
+
+PODFILE CHECKSUM: 1fc4f67f92d6d81776d673ff1c2e792e4cb6f015
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module Pods_YDBarcodeScanner_Tests {
+  umbrella header "Pods-YDBarcodeScanner_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
